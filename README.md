@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I’m Asseh Nepal</h1>
+<h1 align="left">👋 Hi, I’m Asseh Nepal</h1>
 
-<p align="center">
+<p align="left">
 📍 Thimphu, Bhutan <br>
 📫 <a href="mailto:assehnepal834@gmail.com">assehnepal834@gmail.com</a> <br>
 🔗 <a href="https://www.linkedin.com/in/assehnepal">LinkedIn Profile</a> <br>
