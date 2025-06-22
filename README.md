@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi i am Asseh Nepal 👋
 
-<!--
-**AssehNepal/AssehNepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+📍 Thimphu, Bhutan
+📫 Email: assehnepal834@gmail.com
+🔗 LinkedIn Profile
+📞 Phone: +975 17916017
+
+🎓 Bachelor of Computer Science (AI Specialization) – Gyalpozhing College of Information Technology (2021–2025)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
