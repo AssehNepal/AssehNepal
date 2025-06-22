@@ -10,18 +10,28 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🔭 Currently Working on:
+<h3>.PMO Dashboard</h3>
+<p>
+A full-stack dashboard that visualizes data from Bhutan’s Economic, Social, and Governance sectors.
+Includes chatbot integration for dynamic insights and user engagement.
+</p>
 
-I’m a passionate **Backend Developer**, **AI Model Trainer**, and **Mobile App Developer** with a strong enthusiasm for building intelligent and scalable solutions. I love solving real-world problems using data-driven approaches and modern tech stacks.
 
-- 🔭 Currently working on: Real-time hand gesture recognition for sign language
-- 🌱 Currently learning: Flutter, React Native & MLOps
-- 🤝 Open to collaboration on impactful open-source and AI projects
-- 💬 Ask me about: Python, Django, Deep Learning, React Native, Docker
+## 🌱 Currently Learning:
+  
+-  CI/CD pipelines with GitHub Actions & AWS  
+- Flutter animations & custom widgets
+- React Native annimations & Widgets
 
----
 
-## ⚒️ Tech Stack
+## 🤝 Looking for Collaboration on:
+- AI-powered assistive tools (like Lagda AI)
+- Full-stack web or mobile apps
+- Open-source data dashboards and chatbot integration projects
+
+## 🌱 Ask me about:
+
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -32,27 +42,7 @@ I’m a passionate **Backend Developer**, **AI Model Trainer**, and **Mobile App
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 🚀 Projects
-
-- 🔤 **Sign Language Detection System** – Real-time hand gesture classification using Mediapipe + CNN
-- 📱 **GCIT App** – Campus app built using Flutter with Firebase integration
-- 🧠 **AI Virtual Assistant** – Python-based assistant with voice interaction
-- 💻 **DevOps Token System** – Hospital token system using Docker and CI/CD pipelines
-
-> Check my pinned repositories below ⬇️
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assehnepal&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=assehnepal&theme=dark" width="48%"/>
-</p>
-
----
 
 ## 📫 Let’s Connect
 
