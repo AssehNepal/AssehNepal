@@ -26,6 +26,8 @@ Includes chatbot integration for dynamic insights and user engagement.
 
 
 ## 🤝 Looking for Collaboration on:
+- MyBhutanApp (Mobile App for National Event)
+- Lucky Pem (Lottery on 118th National Day)
 - AI-powered assistive tools (like Lagda AI)
 - Full-stack web or mobile apps
 - Open-source data dashboards and chatbot integration projects
