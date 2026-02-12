@@ -11,10 +11,9 @@
 ---
 
 ## 🔭 Currently Working on:
-<h3>.PMO Dashboard</h3>
+<h3>ROM TECH</h3>
 <p>
-A full-stack dashboard that visualizes data from Bhutan’s Economic, Social, and Governance sectors.
-Includes chatbot integration for dynamic insights and user engagement.
+As software Engineer.
 </p>
 
 
