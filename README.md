@@ -6,16 +6,14 @@
 🔗 <a href="https://www.linkedin.com/in/assehnepal">LinkedIn Profile</a> <br>
 📞 +975 17916017 <br>
 🎓 Bachelor of Computer Science (AI Specialization) – Gyalpozhing College of Information Technology (2021–2025)  <br>
-🏢 works at 21Tech  <br>
-👨‍💻works as SOFTWARE ENGINEER
 </p>
 
 ---
 
 ## 🔭 Currently Working on:
-<h3>ROM TECH</h3>
+<h3>21 TECH</h3>
 <p>
-As software Engineer.
+As Software Engineer.
 </p>
 
 
